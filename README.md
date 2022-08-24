@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @matheuszinks
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+-SOBRE MIM 
 
-<!---
-matheuszinks/matheuszinks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+-👋 Salve i sou @matheuszinks
+
+-meu email de contato e matheus.silva.medeiros@escola.pr.gov.br.
+
+- 👀 eu estou interessado em aorender novas linguagens.
+
+- 🌱 estou aprendendo a programar recentemente linguagens de javaScript e Scrath.
